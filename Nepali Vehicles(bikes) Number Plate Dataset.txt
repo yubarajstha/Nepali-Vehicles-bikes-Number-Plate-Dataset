@@ -1,0 +1,2 @@
+Nepali Vehicles(bikes) Number Plate Dataset
+https://www.kaggle.com/datasets/nishapokharel/nepali-vehicles-number-plate-dataset
